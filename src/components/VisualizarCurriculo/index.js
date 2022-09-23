@@ -1,0 +1,5 @@
+const VisualizarCurriculo = () => {
+    <div>
+        
+    </div>
+}
